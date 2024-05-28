@@ -3,7 +3,7 @@ title: First Post
 summary: This is my first post when blog was created.
 date: 2024-05-28
 cardimage: 
-featureimage: {{< figArray subfolder="images" >}}
+featureimage: posts/20240528_first_post/author.png
 caption: I am sorrow and I am have made my first github blog.
 authors:
   - sorrow: author.png

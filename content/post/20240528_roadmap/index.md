@@ -27,7 +27,7 @@ Step-by-Step Approach: The roadmaps break down the learning process into managea
 Potential Detours to Consider
 While roadmap.sh is a fantastic resource, it's important to be aware of some limitations:
 
-{{< figArray subfolder="images/photo1.png" figCaption="Roadmap.sh providing different types of roadmaps of developer.">}}
+{{< figArray subfolder="images" figCaption="Roadmap.sh providing different types of roadmaps of developer." numCols=1 >}}
 
 ## Limited Depth
 ___
@@ -36,7 +36,7 @@ The roadmaps provide a starting point, but they may not delve into every topic i
 One-Size-Doesn't-Fit-All: Learning styles and career goals vary. The prescribed roadmaps might not perfectly align with your individual needs. Don't be afraid to customize your learning journey.
 Focus on Technologies: The roadmaps primarily focus on specific technologies. They might not emphasize core programming concepts and problem-solving skills as heavily.
 
-{{< figArray subfolder="images/photo2.png" figCaption="Shows indepth procedure to be developer.">}}
+{{< figArray subfolder="images" figCaption="Shows indepth procedure to be developer." numCols=2 >}}
 
 
 ## Conclusion

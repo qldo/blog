@@ -4,7 +4,7 @@
 
 author:
   name: "Qubt"
-  image: author.png
+  image: /essentials/author.png
   greeting: "A personal blog theme for Hugo :evergreen_tree:"
   icon: ":wave:"
 
@@ -68,4 +68,4 @@ links:
 title: "Qubt Theme"
 description: "Demo site build with Qubt & Hugo"
 images:
-  - thumbnail.png
+  - /essentials/thumbnail.png

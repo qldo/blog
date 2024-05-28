@@ -1,7 +1,4 @@
-# Qubt - Template
-
-This is the theme template repository! **Please** follow the installation instructions below.
-If you're looking for the actual theme repository, follow this [link](https://github.com/Chrede88/qubt).
+# Qubt
 
 ## Installation
 

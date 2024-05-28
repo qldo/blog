@@ -1,11 +1,12 @@
 ---
-title: Roadmap.sh : A Guide for Developers
+title: Roadmap.sh - A Guide for Developers
 summary: Roadmap.sh offers valuable learning paths, but consider these potential limitations before you start your developer journey.
 date: 2024-05-28
 cardimage: posts/20240528_roadmap/roadmap.png
-featureimage: blog/roadmap_sh/roadmap.png  caption: Charting your course in development with roadmap.sh
+featureimage: posts/20240528_roadmap/roadmap.png
+caption: Charting your course in development with roadmap.sh
 authors:
-    - sorrow: author.png
+  - sorrow: author.png
 ---
 
 

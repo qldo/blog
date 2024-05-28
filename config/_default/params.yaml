@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: "Qubt"
+  name: "sorrow"
   image: /essentials/author.png
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
+  greeting: "Welcome to sorrow's page."
   icon: ":wave:"
 
 ############################
@@ -14,8 +14,8 @@ author:
 
 links:
   - github: https://github.com/qldo/blog
-  - facebook: https://github.com/qldo/blog
-  # - x-twitter:
+  # - facebook: https://github.com/qldo/blog
+  - x-twitter: https://twtiter.com/_qldo
   # - mastodon:
   # - linkedin: 
   # - instagram:
@@ -65,7 +65,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: "sorrow"
+description: "sorrow's page"
 images:
   - /essentials/thumbnail.png

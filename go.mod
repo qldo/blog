@@ -1,4 +1,4 @@
-module github.com/qldo/qubt
+module github.com/qldo/blog
 
 go 1.22.2
 
